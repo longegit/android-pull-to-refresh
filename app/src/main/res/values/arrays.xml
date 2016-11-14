@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dropdown_anim">
+        <item>dropdown_anim_00</item>
+        <item>dropdown_anim_01</item>
+        <item>dropdown_anim_02</item>
+        <item>dropdown_anim_03</item>
+        <item>dropdown_anim_04</item>
+        <item>dropdown_anim_05</item>
+        <item>dropdown_anim_06</item>
+        <item>dropdown_anim_07</item>
+        <item>dropdown_anim_08</item>
+        <item>dropdown_anim_09</item>
+        <item>dropdown_anim_10</item>
+    </string-array>
+</resources>
